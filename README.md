@@ -8,6 +8,9 @@
 EinQl Blog
 </h1>
 
+<h5 style="color:red ">note:</h5>
+<p>This repo don't tested</p>
+
 Gatsby Blog Example using WPGraphQl 
 
 # Setup 
